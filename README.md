@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingpythonista
 - 👀 I’m interested in building fun and interesting applications/games.
-- 🌱 I’m currently learning Python, C#, and SQL
+- 🌱 I’m currently learning Python, C#, Java, and Rust
 - 💞️ I’m looking to collaborate on [TBD]
 - 📫 How to reach me:  https://www.linkedin.com/in/johnathan-davis-gj/
 
